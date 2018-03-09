@@ -1,0 +1,26 @@
+Homework:
+Create a personal website with the following requirements:
+Use Bootstrap v.4.0.0 Grid System
+Have 4+ different sections
+Use 5+ components
+Fully responsive
+Extra points for creativity and using more sections/components.
+Due Date: March 13th 2018 before 5PM.
+When finished, send project in a .ZIP file to my email.
+Feel free to ask me if you have any questions/doubts.
+
+
+Aditional:
+Bootstrap: https://getbootstrap.com/
+Bootstrap Components: https://getbootstrap.com/docs/4.0/components/
+Bootstrap Grid: https://getbootstrap.com/docs/4.0/layout/grid/
+Bootstrap Expo: http://expo.getbootstrap.com
+Bootstrap Examples: https://getbootstrap.com/docs/4.0/examples/
+Awwwards: https://www.awwwards.com/websites/bootstrap/
+Bootstrap Classes Cheatsheet: https://hackerthemes.com/bootstrap-cheatsheet/
+
+Email: marubio@sciodev.com
+Skype: m.rubio01
+
+THANK YOU!
+
